@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Travel Buddy</string>
+    <string-array name="seasons_array">
+        <item>Any Season</item>
+        <item>Spring (March-May)</item>
+        <item>Summer (June-August)</item>
+        <item>Autumn (September-November)</item>
+        <item>Winter (December-February)</item>
+    </string-array>
 </resources>
